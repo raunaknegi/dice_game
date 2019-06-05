@@ -1,0 +1,36 @@
+body{
+    background-color: #C2CAD0;
+    font-family: 'Press Start 2P', cursive;
+}
+
+/* main heading */
+h1{
+    font-size: 2rem;
+    font-weight: lighter;
+    text-align: center;
+}
+/* dice section */
+.container{
+    text-align: center;
+}
+.dice{
+    padding: 2% 10%;
+    display: inline-block;
+}
+h2{
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bolder;
+}
+
+/* footer-section */
+.footer-text{
+    text-align: center;
+    padding: 5% 0 0;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.btn{
+    margin: 0 15px;
+    text-decoration: none;
+    color: #55ACEE;
+}
